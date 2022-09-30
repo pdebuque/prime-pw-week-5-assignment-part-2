@@ -1,0 +1,14 @@
+.title {
+    background-color: rgb(69, 69, 69);
+    color: white;
+    text-align: center;
+}
+body{
+    background-image: url(record.png);
+    background-repeat: repeat;
+    margin: 0;
+}    
+
+.store {
+    padding: 1em;
+}
